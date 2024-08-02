@@ -9,7 +9,7 @@ env:
   LOCATION: southindia
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: f499a169-2c59-40ff-95af-aae3665aa74f
-  WEBAPP-NAME: webappgit400
+  WEBAPP-NAME: webappgitaz400
 
 
 jobs:
